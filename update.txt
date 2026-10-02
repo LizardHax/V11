@@ -1,4 +1,4 @@
-Security Update 4.6.6 KR fix
+Security Update 4.6.7 KR fix
 Strong Antiban system 3.1
 Fixed All Android Device
 Improved performance
