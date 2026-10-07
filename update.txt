@@ -1,5 +1,5 @@
-Security Update 4.6.8
-Strong Antiban system 3.1
+Security Update 4.6.0
+Strong Antiban system 3.3
 Fixed All Android Device
 Improved performance
 Main Account Safe 100%
